@@ -1,0 +1,17 @@
+prefixes:
+  mqtt: mqtt
+  ntp: pkg-ntp
+  scd30: scd30
+packages:
+  mqtt:
+    url: github.com/toitware/mqtt
+    version: 2.0.3
+    hash: 63d0eeed7656cb57c82fb17bab90d4fed187bce9
+  pkg-ntp:
+    url: github.com/toitlang/pkg-ntp
+    version: 1.0.0
+    hash: 1c3cc4a4819f459393f00efc576f66f838665719
+  scd30:
+    url: github.com/qvisten999/scd30
+    version: 1.0.1
+    hash: 1edeabc38feb02e7fb6d7996083bc0a0241db099
